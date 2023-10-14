@@ -1,0 +1,30 @@
+.body-selectors {
+  background-color: antiquewhite;
+}
+h2 {
+  color: royalblue;
+}
+#title {
+  color: crimson;
+}
+.yellow {
+  color: yellow;
+}
+.green {
+  color: green;
+}
+.class1.class2 {
+  color: darkorange;
+}
+p span {
+  color: fuchsia;
+}
+.class3.class4 {
+  color: darkslategray;
+}
+#color {
+  color: hotpink;
+}
+.orange {
+  color: orange;
+}
